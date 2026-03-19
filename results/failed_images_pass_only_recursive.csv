@@ -1,0 +1,14 @@
+image_id,food_name,is_fruit,qc_status,image_path,error
+01610963_019,cucumber,False,pass,..\data\raw\raw_images\01610963_019.jpg,"Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required."
+01610963_018,cucumber,False,pass,..\data\raw\raw_images\01610963_018.jpg,No contour found in mask.
+01570623_003,apple,True,pass,..\data\raw\raw_images\01570623_003.jpg,Could not read image: ..\data\raw\raw_images\01570623_003.jpg
+01570623_013,carrot,False,pass,..\data\raw\raw_images\01570623_013.jpg,Could not read image: ..\data\raw\raw_images\01570623_013.jpg
+01570623_008,orange,True,pass,..\data\raw\raw_images\01570623_008.jpg,Could not read image: ..\data\raw\raw_images\01570623_008.jpg
+01570623_016,cucumber,False,pass,..\data\raw\raw_images\01570623_016.jpg,Could not read image: ..\data\raw\raw_images\01570623_016.jpg
+01570623_017,cucumber,False,pass,..\data\raw\raw_images\01570623_017.jpg,Could not read image: ..\data\raw\raw_images\01570623_017.jpg
+01570623_001,apple,True,pass,..\data\raw\raw_images\01570623_001.jpg,Could not read image: ..\data\raw\raw_images\01570623_001.jpg
+01570623_002,apple,True,pass,..\data\raw\raw_images\01570623_002.jpg,Could not read image: ..\data\raw\raw_images\01570623_002.jpg
+01570623_007,orange,True,pass,..\data\raw\raw_images\01570623_007.jpg,Could not read image: ..\data\raw\raw_images\01570623_007.jpg
+01570623_020,cucumber,False,pass,..\data\raw\raw_images\01570623_020.jpg,Could not read image: ..\data\raw\raw_images\01570623_020.jpg
+01570623_005,apple,True,pass,..\data\raw\raw_images\01570623_005.jpg,Could not read image: ..\data\raw\raw_images\01570623_005.jpg
+01570623_006,orange,True,pass,..\data\raw\raw_images\01570623_006.jpg,Could not read image: ..\data\raw\raw_images\01570623_006.jpg
